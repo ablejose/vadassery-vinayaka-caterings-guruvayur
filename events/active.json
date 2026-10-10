@@ -1,0 +1,52 @@
+{
+  "slug": "vadassery-vinayaka-caterings-guruvayur",
+  "name": "Vadassery Vinayaka Caterings",
+  "shortName": "Vadassery Vinayaka Caterings",
+  "descriptor": "Catering Services",
+  "address": "Vadassery Vinayaka Catering Services, Perumthatta Varyam, Karakkad Road, P.O, Edappully, Guruvayur, Keralam 680101",
+  "area": "Edappully",
+  "city": "Guruvayur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680101",
+  "geo": {
+    "lat": 10.586461600000002,
+    "lng": 76.0387506
+  },
+  "mapsLink": "https://maps.google.com/?cid=15467085084214151919",
+  "phone": "+91 98460 30356",
+  "whatsapp": "919846030356",
+  "hours": "Open 8 am – 7 pm · all days",
+  "opens": "08:00",
+  "closes": "19:00",
+  "rating": 4.5,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "name": "Afsal Liyakkath",
+      "rating": 4,
+      "quote": "loved the service. their veg dishes are amazing. wish they had non veg dishes too."
+    },
+    {
+      "name": "Dhruva Arts Sports Health & Social Services",
+      "rating": 5,
+      "quote": "Superb payasam and meals. One of the best vegetarian food available in Guruvayur."
+    },
+    {
+      "name": "Vinay Kumar",
+      "rating": 5,
+      "quote": "Very good 👍 service as well as food 👌 Superb"
+    },
+    {
+      "name": "Pranoy Unnikrishnan",
+      "rating": 5,
+      "quote": "A great meal...my stomach was full and my mind was full."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://vadassery-vinayaka-caterings-guruva.vercel.app"
+}
